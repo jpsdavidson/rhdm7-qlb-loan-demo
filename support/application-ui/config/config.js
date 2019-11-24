@@ -1,7 +1,7 @@
 'use strict';
 
 var ENV = {
-    'kieserver_host' : 'rhdm7-qlb-loan-kieserver',
+    'kieserver_host' : 'qlb-client-application-rhdm7-qlb-loan-jdavidso-redhat-com.apps.rhpds3x.openshift.opentlc.com',
     'kieserver_port' : '8080',
     'kieserver_contextroot' : '/kie-server',
     'kieserver_containerId' : 'loan-application_1.0',
